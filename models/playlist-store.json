@@ -1,0 +1,88 @@
+{
+  "playlistCollection": [
+    {
+      "pId": "1",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "sID" : "1",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration": "1:00",
+          "genre": "classical"
+        },
+        {
+          "sID" : "2",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration": "1:00",
+          "genre": "classical"
+        },
+        {
+          "sID" : "3",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "duration": "1:00",
+          "genre": "classical"
+        }
+      ],
+      "duration": "time"
+    },
+    {
+      "pId": "2",
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "sID" : "4",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration": "1:00",
+          "genre": "classical"
+        },
+        {
+          "sID" : "5",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration": "1:00",
+          "genre": "classical"
+        },
+        {
+          "sID" : "6",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration": "1:00",
+          "genre": "classical"
+        }
+      ],
+      "duration": "time"
+    },
+    {
+      "pId": "3",
+      "title": "new playlist",
+      "songs": [
+        {
+          "sID" : "7",
+          "title": "song 1",
+          "artist": "artist",
+          "duration": "1:00",
+          "genre": "classical"
+        },
+        {
+          "sID" : "8",
+          "title": "song 2",
+          "artist": "artist 1",
+          "duration": "1:00",
+          "genre": "classical"
+        },
+        {
+          "sID" : "9",
+          "title":"song 3",
+          "artist" :"artist",
+          "duration": "1:00",
+          "genre": "classical"
+        }
+      ],
+      "duration": "time"
+    }
+  ]
+}
